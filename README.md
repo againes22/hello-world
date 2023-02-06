@@ -1,1 +1,1 @@
-# hello-world
+# hello-world I am an ambitious business turned data analyst major who loves typing. I chose to add Data Analyst to my roster as a way to learn more about IT. Currently, I'm still trying to learn all that comes with the course, while challenging, I'm hoping I find my way.
